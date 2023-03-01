@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá a todos, me chamo Fernando.
+
+- Estudo Análise e Desenvolvimento de Sistemas no Senai/SC
+- Conclui o curso técnico de Análise e Desenvolvimento de Sistemas no Senai/SC
+- Trabalho como Analista de Cloud na Dinamio
+- Gosto de front-end
+- Brasil / SC / Joinville
 
 <!--
 **Fsckyiil/fsckyiil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
